@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj4246&label=Profile%20views&color=0e75b6&style=flat" alt="aj4246" /> </p>
 
-- 🔭 I’m currently working on **Frontend Projects**
-
+- 🔭 Enthusiastic and detail-oriented recent graduate with a passion for data analysis.
 - 👨‍💻 All of my projects are available at [https://aj4246.github.io/Ajportfolio.github.io/](https://aj4246.github.io/Ajportfolio.github.io/)
 
 - 📫 How to reach me **arpitdaga47@gmail.com**
